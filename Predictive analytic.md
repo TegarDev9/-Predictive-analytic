@@ -10,24 +10,19 @@ Misalkan sebuah perusahaan sedang mencari metode yang paling efektif untuk mempr
 
 Dengan melakukan perbandingan antara metode Boosting dan Random Forest, perusahaan dapat mengevaluasi performa dan karakteristik masing-masing metode dalam konteks prediksi gaji pekerjaan. Hasil perbandingan ini dapat membantu perusahaan dalam mengambil keputusan yang lebih baik dalam menentukan metode yang paling sesuai dengan data yang mereka miliki. Sebagai hasilnya, perusahaan dapat meningkatkan efisiensi dan efektivitas dalam pengelolaan sumber daya manusia dengan menggunakan prediksi gaji yang lebih akurat dan berbasis data.
 
-**Rubrik/Kriteria Tambahan (Opsional)**:
-- Jelaskan mengapa dan bagaimana masalah tersebut harus diselesaikan
-- Menyertakan hasil riset terkait atau referensi. Referensi yang diberikan harus berasal dari sumber yang kredibel dan author yang jelas.
-  
-  Format Referensi: [Judul Referensi](https://scholar.google.com/) 
-
 ## Business Understanding
 
-Pada bagian ini, kamu perlu menjelaskan proses klarifikasi masalah.
+Dalam dunia analitik prediktif, penting untuk memilih metode yang tepat untuk memprediksi gaji pekerjaan secara akurat. Dalam konteks ini, terdapat dua metode yang populer, yaitu metode Boosting dan Random Forest. Namun, belum ada pemahaman yang jelas tentang perbandingan kinerja dan keefektifan antara metode Boosting dan Random Forest dalam prediksi gaji pekerjaan.Masalah yang perlu dipecahkan adalah menentukan metode mana yang lebih unggul dalam memprediksi gaji pekerjaan secara akurat dan efisien. Dengan adanya perbedaan karakteristik antara metode Boosting dan Random Forest, penting untuk memahami kelebihan dan kelemahan masing-masing metode serta bagaimana kinerja keduanya dalam kasus prediksi gaji pekerjaan.
+Dalam memecahkan masalah ini, perlu dilakukan perbandingan langsung antara metode Boosting dan Random Forest menggunakan dataset gaji pekerjaan yang relevan. Perbandingan ini akan melibatkan evaluasi analisis kinerja keduanya dalam hal akan membandingkan mse antar random fores dan boosting. Tujuannya adalah untuk mengetahui metode mana yang memberikan prediksi gaji pekerjaan yang lebih akurat, efektif, dan praktis dalam konteks analitik prediktif.Dengan melakukan evaluasi yang komprehensif terhadap aspek-aspek di atas, kita dapat membandingkan kinerja metode Boosting dan Random Forest dalam prediksi gaji pekerjaan secara lebih rinci. Hasil evaluasi tersebut akan memberikan wawasan yang lebih mendalam tentang kelebihan dan kelemahan masing-masing metode, serta membantu organisasi dan perusahaan dalam memilih metode yang paling sesuai dengan kebutuhan mereka dalam pengelolaan sumber daya manusia.
+Dengan menyelesaikan perbandingan ini, organisasi dan perusahaan dapat membuat keputusan yang lebih baik dalam memilih metode yang paling sesuai dengan kebutuhan mereka dalam memprediksi gaji pekerjaan. Hal ini akan membantu meningkatkan efisiensi dan akurasi dalam pengelolaan sumber daya manusia, memungkinkan pengambilan keputusan yang lebih baik terkait penggajian, dan mendukung kebijakan yang lebih baik dalam hal pengembangan karir dan manajemen tenaga kerja.
 
 Bagian laporan ini mencakup:
 
 ### Problem Statements
 
 Menjelaskan pernyataan masalah latar belakang:
-- Pernyataan Masalah 1
-- Pernyataan Masalah 2
-- Pernyataan Masalah n
+- Bagaimana cara melakukan evaluasi yang komprehensif untuk membandingkan kinerja metode Boosting dan Random Forest dalam prediksi gaji pekerjaan?
+
 
 ### Goals
 
